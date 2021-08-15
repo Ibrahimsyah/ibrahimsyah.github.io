@@ -2,7 +2,7 @@ name: Ibrahimsyah.github.io deployment
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build:
